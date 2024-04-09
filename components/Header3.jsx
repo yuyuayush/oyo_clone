@@ -36,7 +36,7 @@ const Header3 = () => {
             type="submit"
             className=" h-16 px-3 py-2 w-72 bg-green-400 hover:cursor-pointer hover:bg-green-600 text-white text-xl"
           >
-            <Link href={`/hotels?city=${city}`}>Search</Link>
+            <Link href={`hotels?city=${city}`}>Search</Link>
           </button>
         </div>
         <div className="flex mx-20 my-5 font-bold">

@@ -24,7 +24,7 @@ const SingleHotel = ({ hotel }) => {
       </Head>
       <div className="w-7/12 mx-auto my-10 ">
         <Image
-          src={hotel?.banner}
+          src='https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFua3xlbnwwfHwwfHx8MA%3D%3D'
           alt="hotel"
           width={2000}
           height={2000}

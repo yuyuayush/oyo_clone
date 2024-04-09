@@ -9,6 +9,8 @@ const nextConfig = {
       "i.pinimg.com",
       "www.symbols.com",
       "cdn.pixabay.com",
+      "plus.unsplash.com",
+      "images.unsplash.com",
     ],
   },
 };
